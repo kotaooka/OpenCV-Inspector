@@ -1,6 +1,6 @@
 ## OpenCV Inspector
 
-これはOpenCVのCannyをGUIで操作し、画像検査に活用する試みです。
+このPythonスクリプトはOpenCVのCannyをGUIで操作し、画像検査をする試みです。
 
 ![image](https://github.com/kotaooka/OpenCV-Inspector/assets/115392256/22359797-6fb7-4e6b-9c78-35b0bc9a3e98)
 
