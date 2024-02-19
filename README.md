@@ -6,9 +6,9 @@
 
 ### 必要条件
 - Python 3.x
-- OpenCV (`cv2` ライブラリ)
-- NumPy (`numpy` ライブラリ)
-- Tkinter (`tkinter` ライブラリ)
+- OpenCV
+- NumPy
+- Tkinter
 
 ### 使い方
 1. batファイルからスクリプトを実行します。
