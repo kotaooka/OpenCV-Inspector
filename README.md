@@ -1,8 +1,9 @@
 ## OpenCV Inspector
 
-これはOpenCVのCannyで画像検査をする試みです。
+これはOpenCVのCannyをGUIで操作し、画像検査に活用する試みです。
 
-画像ファイルまたはライブカメラの両方で、しきい値処理、エッジ検出、輪郭検出などのさまざまな操作を実行できます。
+![image](https://github.com/kotaooka/OpenCV-Inspector/assets/115392256/22359797-6fb7-4e6b-9c78-35b0bc9a3e98)
+
 
 ### 必要条件
 - Python 3.x
